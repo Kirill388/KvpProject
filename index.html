@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!-- Created by CodingLab |www.youtube.com/CodingLabYT-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <!--<title> Responsive Sidebar Menu  | CodingLab </title>-->
+    <link rel="stylesheet" href="style.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <div class="sidebar">
+    <div class="logo-details">
+      <!-- <i class='bx bxl-c-plus-plus icon'></i> -->
+        <div class="logo_name">KVP NAU</div>
+        <i class='bx bx-menu' id="btn" ></i>
+    </div>
+    <ul class="nav-list">
+      
+      <li>
+        <a href="#project">
+          <i class='bx bx-grid-alt'></i>
+          <span class="links_name">Home</span>
+        </a>
+         <span class="tooltip">Home</span>
+      </li>
+     <li>
+       <a href="#doc">
+         <i class='bx bx-folder' ></i>
+         <span class="links_name">Документація</span>
+       </a>
+       <span class="tooltip">Файли</span>
+     </li>
+     <li>
+      <a href="#az_70">
+        <i class='bx bx-pie-chart-alt-2' ></i>
+        <span class="links_name">Симулятор</span>
+      </a>
+      <span class="tooltip">Симулятор</span>
+    </li>
+    
+     
+     <li class="profile">
+         <div class="profile-details">
+           </div>
+         </div>
+         <i class='bx bx-log-out' id="log_out" ></i>
+     </li>
+    </ul>
+  </div>
+
+<!-- я -->
+<section class="home-section">
+  <div id="project" class="text">Home</div> 
+</section>
+
+<section class="home-section">
+    <div id="doc" class="text">Документація
+      <br>
+      <iframe id='pdf' src="5e Players Handbook.pdf" style="width:600px; height:850px;" frameborder="0"></iframe>
+      <iframe id='pdf' src="5e Players Handbook.pdf" style="width:600px; height:850px;" frameborder="0"></iframe>
+      <iframe id='pdf' src="5e Players Handbook.pdf" style="width:600px; height:850px;" frameborder="0"></iframe>
+      <!-- <a href="test.docs"> <img src="b.jpg" /> </a>
+      <a href="#" onclick="openWord('test.docx')"> <img src="b.jpg" /> </a>
+      <a href="ms-word:ofe|u|/лабораторна_2_Ковальов.docx" > <img src="b.jpg" /> </a> -->
+    </div> 
+</section>
+
+<section class="home-section">
+  <div id="az_70" class="text">Симулятор
+    <br>
+    <p><a href="index2.html" target="_blank"><button>Переход</button></a></p>
+    <a class="btn-3" href="#"><span>Zoning In</span></a>
+  </div> 
+</section>
+
+
+
+
+  <script>
+  let sidebar = document.querySelector(".sidebar");
+  let closeBtn = document.querySelector("#btn");
+  let searchBtn = document.querySelector(".bx-search");
+
+  closeBtn.addEventListener("click", ()=>{
+    sidebar.classList.toggle("open");
+    menuBtnChange();//calling the function(optional)
+  });
+
+  searchBtn.addEventListener("click", ()=>{ // Sidebar open when you click on the search iocn
+    sidebar.classList.toggle("open");
+    menuBtnChange(); //calling the function(optional)
+  });
+
+  // following are the code to change sidebar button(optional)
+  function menuBtnChange() {
+   if(sidebar.classList.contains("open")){
+     closeBtn.classList.replace("bx-menu", "bx-menu-alt-right");//replacing the iocns class
+   }else {
+     closeBtn.classList.replace("bx-menu-alt-right","bx-menu");//replacing the iocns class
+   }
+  }
+  </script>
+
+<script type="text/javascript">
+  function openWord(strFilePath) {
+      var yourSite = "file:///D:/site/";
+      openWordDocPath(yourSite + strFilePath);
+  }
+  function openWordDocPath(strLocation) {
+      var objWord;
+      objWord = new ActiveXObject("Word.Application");
+      objWord.Visible = true;
+      objWord.Documents.Open(strLocation);
+  }
+</script>
+
+</head>
+
+</html>
