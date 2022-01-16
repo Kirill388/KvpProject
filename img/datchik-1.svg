@@ -1,0 +1,43 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171.76 170.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cecdcc;
+      }
+
+      .cls-2 {
+        fill: #010101;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #cc1517;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-1" cx="85.53" cy="85.95" r="81.89"/>
+    <path class="cls-2" d="M297.51,505.9c-47.36,0-85.88-38.33-85.88-85.45S250.15,335,297.51,335s85.87,38.33,85.87,85.44S344.86,505.9,297.51,505.9Zm0-162.15c-42.54,0-77.14,34.41-77.14,76.7s34.6,76.71,77.14,76.71,77.13-34.41,77.13-76.71S340,343.75,297.51,343.75Z" transform="translate(-211.63 -335.01)"/>
+    <path class="cls-3" d="M297.86,347.4h-.95c-40.22.32-72.84,33-72.84,73.05a72.34,72.34,0,0,0,22,52.11.15.15,0,0,0,.21,0l5.9-6.05a.15.15,0,0,0,0-.21,63.68,63.68,0,0,1-19.31-45.85c0-35.43,28.95-64.26,64.57-64.32S362,385,362,420.45a63.65,63.65,0,0,1-19.32,45.85.14.14,0,0,0,0,.21l5.89,6.05a.14.14,0,0,0,.21,0,72.34,72.34,0,0,0,22-52.11C370.7,380.36,338.07,347.72,297.86,347.4Z" transform="translate(-211.63 -335.01)"/>
+    <rect class="cls-2" x="84.46" y="10.63" width="2.45" height="8.16" rx="0.73"/>
+    <rect class="cls-2" x="277.59" y="348.11" width="2.45" height="8.16" rx="0.73" transform="matrix(0.97, -0.25, 0.25, 0.97, -290.95, -253.95)"/>
+    <rect class="cls-2" x="260.78" y="355.12" width="2.45" height="8.16" rx="0.73" transform="translate(-356.13 -155.88) rotate(-30)"/>
+    <rect class="cls-2" x="245.96" y="366.6" width="2.45" height="8.16" rx="0.73" transform="translate(-401.34 -51.65) rotate(-45)"/>
+    <rect class="cls-2" x="234.94" y="381.07" width="2.45" height="8.16" rx="0.73" transform="translate(-427.09 62.09) rotate(-60)"/>
+    <rect class="cls-2" x="227.86" y="398.29" width="2.45" height="8.16" rx="0.73" transform="translate(-429.8 187.15) rotate(-75.34)"/>
+    <rect class="cls-2" x="225.54" y="416.87" width="2.45" height="8.16" rx="0.73" transform="translate(-405.81 312.72) rotate(-90)"/>
+    <rect class="cls-2" x="228.08" y="435.13" width="2.45" height="8.16" rx="0.73" transform="translate(384.55 -228.8) rotate(75.34)"/>
+    <rect class="cls-2" x="234.99" y="451.64" width="2.45" height="8.16" rx="0.73" transform="translate(301.15 -311.71) rotate(60)"/>
+    <rect class="cls-2" x="314.57" y="348.11" width="2.45" height="8.16" rx="0.73" transform="translate(321.7 437.24) rotate(-165.5)"/>
+    <path class="cls-4" d="M328.14,366.86h0a1.55,1.55,0,0,0,2.09-.56l6.92-12-2.59-1.49-6.92,12A1.5,1.5,0,0,0,328.14,366.86Z" transform="translate(-211.63 -335.01)"/>
+    <rect class="cls-2" x="346.2" y="366.6" width="2.45" height="8.16" rx="0.73" transform="translate(119.36 543.45) rotate(-135)"/>
+    <rect class="cls-2" x="357.22" y="381.07" width="2.45" height="8.16" rx="0.73" transform="translate(-7.5 553.14) rotate(-120)"/>
+    <rect class="cls-2" x="364.31" y="398.29" width="2.45" height="8.16" rx="0.73" transform="matrix(-0.25, -0.97, 0.97, -0.25, -142.85, 522.84)"/>
+    <rect class="cls-2" x="366.62" y="416.87" width="2.45" height="8.16" rx="0.73" transform="translate(-264.73 453.79) rotate(-90)"/>
+    <rect class="cls-2" x="364.09" y="435.13" width="2.45" height="8.16" rx="0.73" transform="translate(671.06 -138.05) rotate(104.66)"/>
+    <rect class="cls-2" x="357.17" y="451.64" width="2.45" height="8.16" rx="0.73" transform="translate(720.65 38.2) rotate(120)"/>
+  </g>
+</svg>

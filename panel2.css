@@ -1,0 +1,143 @@
+
+#panel2
+{
+    background-color: #8EA08E;
+    border-radius: 20px;
+    padding: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+
+} 
+.bloc-first {
+    display: flex;
+    height: 40%;
+    padding-top: 1%;
+   
+    
+}
+
+/* лівий блок  */
+.info-panel-left {
+    width: 100%;
+    margin: 0% 2%;
+    
+}
+.back {
+    background-color: #212a1e;
+    border-radius: 10px;
+    padding: 1%;
+    width: 100%;
+    /* height: 100%; */
+  
+   
+}
+.info-window {
+    
+    height: 18%;
+    background-color: #ccceca;
+    border-radius: 7px;
+    margin: 2% 5%;
+    
+
+    
+
+}
+.bottom-wondow {
+    display: flex;
+    background-color: #384237;
+    border-radius: 7px;
+    justify-content: space-around;
+    margin: 1%;
+  
+}
+
+.bottom {
+    width: 15%;
+    margin: 2%;
+}
+
+.circle-down{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40%;
+}
+
+/* центальний блок */
+
+.info-panel-center{
+    width: 100%;
+    margin: 0% 3%;
+}
+
+.board-bottom{
+
+   background-color: #212a1e;
+   padding: 2%;
+   border-radius: 5px;
+   width: 80%;
+   
+   
+  
+}
+.center-badabum{
+    display: flex;
+    justify-content: center;
+    height: 39%;
+}
+.board-bottom-content{
+    background-color: #384237;
+    border-radius: 5px;
+    /* height: 90%; */
+    padding: 2%;
+
+}
+.board-bottom-content-blocks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50%;
+}
+
+.board-info{
+    background-color: #ccceca;
+    border-radius: 5px;
+    height: 70%;
+    width: 25%;
+    margin: 2%;
+}
+.board{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+    height: 27%;
+}
+.step{
+    width: 45%;
+    padding: 2%;
+    margin: 0 2%;
+}
+.board-second{
+    background-color: #ccceca;
+    border-radius: 7px;
+    height: 100%;
+}
+.bottom-down-center-panel{
+    display: flex;
+    
+}
+.board-bottom-content-blocks .bottom{
+    width: 20%;
+}
+.bottom-down-center-panel div{
+    margin: 2% 4%;
+    width: 17%;
+}
+/* .em{
+    width: 20%;
+} */
+/* правий блок */
+.info-panel-right{
+    width: 100%;
+    margin: 0% 2%;
+}

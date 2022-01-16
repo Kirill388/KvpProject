@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.9 114.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232b1b;
+      }
+
+      .cls-2 {
+        fill: #535a52;
+      }
+
+      .cls-3 {
+        mask: url(#mask);
+      }
+
+      .cls-4 {
+        fill: url(#Безымянный_градиент_50);
+      }
+
+      .cls-5 {
+        filter: url(#luminosity-noclip);
+      }
+    </style>
+    <filter id="luminosity-noclip" x="17.74" y="77.88" width="39" height="39" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="17.74" y="77.88" width="39" height="39" maskUnits="userSpaceOnUse">
+      <g class="cls-5">
+        <image width="39" height="39" transform="translate(17.74 77.88)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAACXBIWXMAAAsSAAALEgHS3X78AAAF30lEQVRYR82Ye3OaTBTGHxAEQbl4Q7SdtLZNp833/zhNNd4AbwhRREXfPzp7CvGWtMn0fWaYaGaX/XnO7rksB+CA/6n4awP+pYRrAy6p2WxC0zTIsoxcLgeO43A4HHA4HJAkCaIoQhAEcBzn2qtO6sVwrVYL5XIZpVIJ9XodpVIJsixDFEXwPI/D4YD9fo84jrFarRAEATzPg+u66PV6116f0bPhbNtGo9FAs9lErVaDYRgwDAPFYpHgOI4DAOx2O2w2G6xWK4RhiNlsBtd1Ua/X4bou+v3+ldV+6VlwHz9+xOfPn/Hu3TtYloVqtQrTNKFpGgqFAmRZhiAI5NYkSRDHMdbrNR4fH7FYLNBoNGBZFhzHgWVZGI1GGA6HF9e9Ctdut/H9+3e02220Wi3U63VUKhXoug5FUVAoFJDP5zN7br/fY7vdZlxbqVRQqVRQq9VQLpdhmiZEUUS32z279kW4T58+4e7uDre3t7i5uYFt22Q1VVWhKAry+TwEQQDP8xm4JEmw3W4RRRFtAV3Xoes6SqUSVFWFIPxa/hzgWbh2u427uzt8/fo1YzV2GAqFAiRJyoClTytzr6IoKBaLUBQFqqpCVVXaBgDoR5xy8Um4Dx8+4Nu3b7i9vUW73cb79+9h2zbK5TI0TSOL8fxxmGSQAJDL5SCKIiRJgiRJkGWZLM1xHIUb3/efB2fbNr58+YJ2u42bmxu0Wi1yp6ZpUFUVoigeveicOI4jIEEQkMvlAPyyGDvRi8UCk8kEP3/+zMw9grMsC61Wi6CYKzVNQ7FYJHe8VDzPQ5IkcByH/X6P3W6HOI7x+PiI+XwO3/exXq8xGo1+z0m/oNlsotlswrIsOpWmaR5t4D8Vz/PI5/NQVRW6rsMwDFSrVViWhUajgXK5nB2f/mIYBh150zRhGAaBvcSVl8QsqCgKNE2DYRgol8vknczY9Bc2gT2qqqJQKLwaGJMgCJAkCaqqolgsQtd1mKaJarUK27ZpXAauWCzSBBZgJUmiTfxaYockn89DURQKM8woTATXarVof7GUxCL/W4jneYiiCFEUIcsyZFmmcENj2IdSqURJXJIkiKKIXC53Mpa9hjiOA8/zFGIEQaA1mWjlfD4PURTJWgyMBdTXFoN7+qTXIzg2mP39F3pqCKJguXC32yFJEsqPbyVWILCHfU+L4NbrNdbrNTabDbbbLUE+nfBaSlcvu92OnvR6BBeGIZbLJaIownq9RhzHR4NfUyyFbTYbxHGMOI7JKEwENxqNMJ1OEQRBBnKz2bwJIMutURQhiiKsVitEUYQ4jmlMZueHYYjFYoEgCBCGIVarFeI4RpIkRy//G6XBWJ8RBAEWiwXCMKRxmUw+m80wmUwwm80IUlVVCi+vcYoPhwNVyMvlEovFAr7vYzKZwHXd81VJv9/HcDiE53mYTqfwfR9hGJK5X+P0brdbspbv+5jP5xiPxxiPx5hOp5mxRzUQo2fFJat6WQPDarI/EQMLggC+75On2JpP+9ojuF6vh1qthkqlQnk2DQfgbIl+TsyVabDJZILxeAzXdeF5HjzPO5p3snp0XRcPDw9QFIWamHRnxf6fBj6ldA8bRRHCMMR8PofneXAcB8PhEIPBAP1+/2SjfRJuMBhAEATKt+yaIUkS6pbSzfTTnMiiPutdoyiicpy5cTAY4OHhAb1e76TVgAutYbfbpQqBBcz0YqzmS/etwO/Iv91uqYFZLpfwfR/T6RSe52EwGKDX66HT6aDT6Zy96LnYFNzf31MAZu5ZLpcIwxC6rmcq5TQc+yEsXARBkHFnt9tFt9uF4ziZ0PFUVzuWTqcDAIjjmDZztVqFYRh0VyJJErn2qTtZYJ9MJnAcB47j4MePH7i/v7+8MAAOz7zZbDQasG2bbplM06T7kvT93H6/p3zJgizba47jwPO8qxc4TM+GY2o2mxRmqtUqSqUSnVye5zOWC4KAss25rv6SXgyXlm3bdLOZvshh+zMMwxcDpfVXcG+t54f5f6D/AFe9le36X1vpAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <radialGradient id="Безымянный_градиент_50" data-name="Безымянный градиент 50" cx="37.45" cy="97.3" r="17.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="0.86" stop-color="#ad0000"/>
+    </radialGradient>
+  </defs>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_2-2" data-name="Слой 2">
+      <g>
+        <path class="cls-1" d="M0,37.45c0,.28,0,.57,0,.84A37.43,37.43,0,0,0,36.5,74.89h1.88a37.45,37.45,0,0,0,36.51-36.6c0-.27,0-.56,0-.84s0-.69,0-1A37.43,37.43,0,0,0,38.38,0c-.31,0-.62,0-.93,0s-.64,0-1,0A37.39,37.39,0,0,0,0,36.42C0,36.76,0,37.11,0,37.45Z"/>
+        <g>
+          <path class="cls-2" d="M28.44,82.9V40.49a9.29,9.29,0,0,1,18.58,0V83.24a17,17,0,1,1-18.58-.34Z"/>
+          <g class="cls-3">
+            <circle class="cls-4" cx="37.45" cy="97.3" r="17.01"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
